@@ -1,97 +1,164 @@
-# Hi, I'm Umer Farooq 👋
+<h1 align="center">
+Hi 👋, I'm Umer Farooq
+</h1>
 
-### Senior Frontend Engineer
+<h3 align="center">
+Senior Frontend Engineer
+</h3>
 
-I’m a Senior Frontend Engineer with **7+ years of experience** building scalable, high-performance web applications. I enjoy solving complex frontend challenges, designing maintainable architectures, and creating intuitive user experiences.
-
----
-
-## 🚀 About Me
-
-- 💼 Senior Frontend Engineer
-- ⚛️ Specialized in React.js, Next.js, and Svelte.js
-- 🏗️ Passionate about Frontend Architecture
-- ⚡ Focused on Performance Optimization
-- 🔄 Experienced with Real-Time Applications
-- 📍 Islamabad, Pakistan
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Frontend+Engineer;React.js+%7C+Next.js+%7C+Svelte.js;Frontend+Architecture;Performance+Optimization;Building+Scalable+Web+Applications&center=true&width=800&height=60&duration=3000&pause=1200&color=3B82F6&size=26">
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 💫 About Me
+
+🚀 Senior Frontend Engineer with **7+ years** of experience building scalable web applications.
+
+I specialize in designing maintainable frontend architectures, developing enterprise dashboards, and optimizing performance for large-scale applications.
+
+### Current Focus
+
+- ⚛️ React.js
+- ▲ Next.js
+- 🔥 Svelte.js
+- ⚡ Performance Optimization
+- 🏗️ Frontend Architecture
+- 🔄 Real-Time Applications
+- 🤖 AI-Assisted Development
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
-- React.js
-- Next.js
-- Svelte.js
-- React Native
+<p>
 
-### Languages
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,js,ts,html,css,tailwind,bootstrap"/>
 
-- JavaScript (ES6+)
-- TypeScript
-
-### Styling
-
-- Tailwind CSS
-- Bootstrap
-- HTML5
-- CSS3
+</p>
 
 ### State Management
 
-- Redux
-- Redux Toolkit
-- Context API
+<p>
 
-### Real-Time & Maps
+<img src="https://skillicons.dev/icons?i=redux"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+### Currently Working With
 
 - Socket.IO
 - Google Maps
 - Leaflet
 - Mapbox
-
-### Architecture
-
-- Frontend Architecture
-- Monorepo
 - REST APIs
+- Monorepo Architecture
 - RBAC
-- Component Design
+- New Relic
+
+---
+
+# 📌 Featured Work
+
+### 📦 Enterprise Inventory Management System
+
+Large-scale inventory management platform built with **Svelte.js** featuring:
+
+- Real-time Activity Logs
+- 2FA
+- SSO
+- Complex Graph Management
 - Performance Optimization
 
 ---
 
-## 📌 What I'm Working On
+### 🏢 Real Estate Platform
 
-- Enterprise Inventory Management Systems
-- Dashboard Development
-- Frontend Performance Optimization
-- AI-Assisted Development
-- Scalable Frontend Architecture
+Built complete admin dashboard and website using
+
+React.js
+
+Next.js
+
+SSR
+
+RBAC
+
+Socket.IO
 
 ---
 
-## 📈 GitHub Stats
+### 🚖 Cab Management Platform
 
-> *(You can add GitHub Stats cards here later.)*
+Developed a UK-based cab management dashboard using
+
+React.js
+
+Leaflet
+
+REST APIs
+
+Real-time tracking
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced System Design
-- Frontend Design Patterns
-- AI-powered Developer Workflows
+- AI Workflows
+- Cloud Architecture
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
-- GitHub: https://github.com/umerfarooq1997
-- LinkedIn: https://www.linkedin.com/in/umer-farooq-awan
-- Email: umer.farooqawan1997@gmail.com
+<p align="left">
+
+<a href="https://www.linkedin.com/in/umer-farooq-awan/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:umer.farooqawan1997@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/umerfarooq1997">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *"Building scalable frontend experiences with clean architecture and performance in mind."*
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=umerfarooq1997&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=umerfarooq1997&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq1997&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umerfarooq1997&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+> **"Clean architecture. Scalable applications. Better user experiences."**
