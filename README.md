@@ -6,6 +6,7 @@
 
 *Building scalable, high-performance web applications for 7+ years* 🚀
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF3E00?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-flax-66.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-farooq-awan/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umer.farooqawan1997@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/umerfarooq1997?style=for-the-badge&logo=github)](https://github.com/umerfarooq1997)
@@ -21,6 +22,7 @@
 - 👥 Former **Team Lead** — managed and mentored a team of 4 frontend developers
 - 🏗️ Experienced in delivering **production-ready applications from the ground up**
 - 🔐 Hands-on with **2FA, SSO, RBAC**, and enterprise-grade authentication flows
+- 🌐 Check out my portfolio: **[my-portfolio-six-flax-66.vercel.app](https://my-portfolio-six-flax-66.vercel.app/)**
 - 📍 Based in Islamabad, Pakistan 🇵🇰
 
 ---
@@ -92,10 +94,10 @@
 
 <div align="center">
 
-![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umerfarooq1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq1997&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umerfarooq1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Umer's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq1997&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerfarooq1997&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=umerfarooq1997&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -122,7 +124,7 @@ const umer = {
 
 Open to discussing frontend architecture, performance optimization, or exciting opportunities.
 
-📧 **umer.farooqawan1997@gmail.com**
+📧 **umer.farooqawan1997@gmail.com** &nbsp;|&nbsp; 🌐 **[Portfolio](https://my-portfolio-six-flax-66.vercel.app/)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umerfarooq1997&color=blueviolet&style=for-the-badge)
 
