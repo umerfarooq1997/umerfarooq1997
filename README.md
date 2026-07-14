@@ -2,7 +2,7 @@
 
 # Hi there, I'm Umer Farooq 👋
 
-### Senior Frontend Engineer | React.js • Next.js • Svelte.js
+### Senior Frontend Engineer | Frontend Architecture | React.js • Next.js • Svelte.js
 
 *Building scalable, high-performance web applications for 7+ years* 🚀
 
